@@ -1,0 +1,1 @@
+kvm-mouse-switcher.exe left
